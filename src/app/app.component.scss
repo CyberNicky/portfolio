@@ -1,11 +1,24 @@
 html, body{
   font-family: 'Roboto';
 }
-.background{
-  background: url("./../assets/fundo6.jpg");
-  background-size: cover;
+// .background{
+//   background: url("./../assets/fundo6.jpg");
+//   background-size: cover;
+//   background-repeat: no-repeat;
+//   background-position: center center;
+//   width: 100vw;
+//   height: 100vh;
+
+// }
+
+.scrollable-container {
+  
+ 
+  background-image: url('./../assets/fundo6.jpg');
+    
+   
   background-repeat: no-repeat;
-  background-position: center center;
-  width: 100vw;
-  height: 100vh;
-}
+    
+   
+  background-size: cover;
+  }

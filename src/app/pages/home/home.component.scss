@@ -3,6 +3,9 @@
   grid-template-columns: 1fr 1fr;
   margin-top: 5%;
   gap: 250px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .big-name{
   margin-left: 120px;
@@ -12,33 +15,77 @@
     font-family: 'Roboto';
     font-weight: bold;
     margin-bottom: 15px;
+    font-size: 40px;
   }
   h2{
   color: white;
   font-weight: bold;
+  font-size: 30px;
+
   }
 }
-
-
-
-.title{
-  text-align: center;
- margin-bottom: 40px; 
- 
-
- color: white;
-    font-family: 'Roboto';
-
-  p{
-    color: #b1adad;
-    font-family: 'Roboto';
-  }
-}
-
-
 .me{
   width: 320px;
 height: auto;
 border-radius: 60px;
 }
+
+.text{
+  animation: fade-in 1s ease-in-out;
+  p{
+  color: white;
+  margin-left: 150px;
+
+  
+}
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+ 
+  }
+}
+
+
+.About {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: transparent;
+  margin-top: 25%;
+}
+
+.text {
+  max-width: 800px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+
+.text p {
+  margin: 10px 0;
+}
+
+.text a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.2s;
+
+  &:hover {
+    color: #0056b3;
+  }
+}
+
+
 
