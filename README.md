@@ -1,27 +1,35 @@
-# Project
+# Bem-vindo(a) ao meu Portfolio! 🌟
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+Olá! Eu sou Monique, uma desenvolvedora apaixonada por criar soluções incríveis e compartilhar conhecimento. Este é o meu portfolio, onde você pode conhecer um pouco mais sobre mim, explorar meus projetos e descobrir as habilidades que possuo.
 
-## Development server
+## Sobre mim 💁‍♀️
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- 👩‍💻 Desenvolvedora Front-end
+- 🌈 Apaixonado(a) por criar soluções inovadoras
+- ✨ Aprendendo e evoluindo constantemente
 
-## Code scaffolding
+## Habilidades e Tecnologias 💡
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- 💻 Linguagens: JavaScript, HTML, CSS
+- 🚀 Frameworks: Angular
+- 🌐 Front-end: HTML5, CSS3, Bootstrap
+- 📡 Back-end: Node.js
+- 🛢️ Banco de Dados: MySQL
+- ☁️ Cloud: AWS, Azure
+- 🔧 Ferramentas: Git, VS Code
 
-## Build
+## Projetos Destacados 🚀
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. https://github.com/CyberNicky/triphabittat-front-angular - Tripphabitat é um projeto de turismo, que foi o meu primeiro projeto que eu fiz o frontend e o backend e mexi com autenticação, acrescentou bastante para o meu aprendizado como desenvolvedora, no front utilizei o angular e no backend o nestjs.
+2. https://github.com/CyberNicky/pokedex2.0-angular - Esse projeto foi 100% só front, utilizei o angular no frontend e consumir uma api externa do pokeapi, foi um projeto incrível que me fez desenvolver bastante a minha criatividade, e o projeto você pode navegar entre os pokémons, feito isso, você pode favoritá-los e conseguir ver os seus pokémons favoritados na página "Favoritados" e você também pode deletar os pokémons favoritados.
+3. https://github.com/CyberNicky/locator-angular - Esse foi um dos meus primeiros projetos utilizando angular, mas eu usei bastante a minha criatividade e utilizei a api do google para poder saber a localização atual do usuário, com isso mexi com geolocalização no angular.
 
-## Running unit tests
+## Como me Encontrar 📫
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- 💼 LinkedIn: https://www.linkedin.com/in/monique-campos-427816207/ 
+- ✉️ E-mail: nickyalbuquerque2008@gmail.com
 
-## Running end-to-end tests
+## Vamos Conectar! 💬
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou apenas para bater um papo. Vamos conectar e criar coisas incríveis juntos!
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
